@@ -62,7 +62,7 @@ Make your changes and commit them (git commit -m 'Add your feature').
 Push your changes (git push origin feature/your-feature-name).
 Open a pull request.
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GNU License - see the LICENSE file for details.
 
 Acknowledgements
 The cryptographic algorithms used in this project are based on standard implementations available in various cryptographic libraries.
