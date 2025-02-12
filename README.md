@@ -35,7 +35,7 @@ After installation, you can run the tool using the following command (if it's a 
 
 bash
 Copy
-python cryptography_tool.py
+python Crypto_app 1.py
 If there's a GUI interface, follow the instructions to launch the graphical interface.
 
 Usage
